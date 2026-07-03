@@ -2,7 +2,7 @@
 
 A simple and responsive Email & Password Validator built with **HTML, CSS, and Vanilla JavaScript**.
 
-This project validates user inputs using **Regular Expressions (Regex)** and provides **real-time feedback** while typing. It was built as part of my JavaScript learning journey to strengthen my understanding of DOM manipulation, events, functions, and form validation.
+This project validates user inputs using **Regular Expressions (Regex)** and provides **real-time feedback** while typing. It was built as part of my JavaScript learning journey to strengthen my understanding of DOM manipulation, events, functions and form validation.
 
 ## 🚀 Features
 
